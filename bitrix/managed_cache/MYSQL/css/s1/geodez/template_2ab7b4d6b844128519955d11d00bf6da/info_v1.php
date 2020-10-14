@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/geodez/css/reset.css" => "15956036996954","/local/templates/geodez/css/style.css" => "159597639717058",]; ?>

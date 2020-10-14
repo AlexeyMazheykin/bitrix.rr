@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/geodez/js/main.js" => "15958545482654",]; ?>
